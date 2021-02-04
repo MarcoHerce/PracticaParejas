@@ -9,6 +9,7 @@
  * @author Diurno
  */
 public class hola {
-    private String saludo
-    private int uno;
+    public String saludo;
+    public  int uno;
+    public  int tres;
 }
