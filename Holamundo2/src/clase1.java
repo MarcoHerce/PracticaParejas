@@ -8,6 +8,7 @@
  *
  * @author Diurno
  */
-public class clase1 {
+public class hola {
+    private String saludo
     private int uno;
 }
