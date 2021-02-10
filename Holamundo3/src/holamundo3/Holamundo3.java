@@ -8,7 +8,7 @@ package holamundo3;
 public class Holamundo3 {
 
     /**
-     *  ¿Qué sucede?
+     *  ¿Qué sucede? No te preocupes.
      */
     public static void main(String[] args) {
        
