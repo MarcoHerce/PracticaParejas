@@ -11,6 +11,6 @@ public class Holamundo3 {
    public int uno;
    public int dos;
    public int tres;
-   public int cuatro;
+   public int cuatr4o;
     
 }
