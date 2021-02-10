@@ -7,11 +7,10 @@ package holamundo3;
  */
 public class Holamundo3 {
 
-    /**
-     *  ¿Qué sucede? No te preocupes.
-     */
-    public static void main(String[] args) {
-       
-    }
+   public String saludo;
+   public int uno;
+   public int dos;
+   public int tres;
+   public int cuatro;
     
 }
