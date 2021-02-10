@@ -8,7 +8,7 @@ package holamundo3;
 public class Holamundo3 {
 
     /**
-     *  
+     *  Hola buenos días.
      */
     public static void main(String[] args) {
        
