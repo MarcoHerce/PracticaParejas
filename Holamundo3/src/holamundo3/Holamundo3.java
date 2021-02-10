@@ -2,7 +2,7 @@
 package holamundo3;
 
 /**
- * 
+ * Vamos allá
  * @authors Artem y Marco
  */
 public class Holamundo3 {
@@ -11,6 +11,6 @@ public class Holamundo3 {
    public int uno;
    public int dos;
    public int tres;
-   public int cuatr4o;
+   public int cuatro;
     
 }
